@@ -8,6 +8,7 @@ function! s:dbInit()
                 \   'name' : 'wubi',
                 \ })
     call ZFVimIM_cloudRegister({
+                \   'mode' : 'local',
                 \   'repoPath' : repoPath,
                 \   'dbFile' : dbFile,
                 \   'dbCountFile' : dbCountFile,
