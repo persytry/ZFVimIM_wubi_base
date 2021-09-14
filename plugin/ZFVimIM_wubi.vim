@@ -4,8 +4,10 @@ function! s:dbInit()
     let dbFile = '/misc/wubi.txt'
     let dbCountFile = '/misc/wubi_count.txt'
 
+    " editable=0 表示关闭词频修改和自造词
     let db = ZFVimIM_dbInit({
                 \   'name' : 'wubi',
+                \   'editable' : 0,
                 \ })
     call ZFVimIM_cloudRegister({
                 \   'mode' : 'local',

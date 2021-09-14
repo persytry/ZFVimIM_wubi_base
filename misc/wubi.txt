@@ -12566,7 +12566,7 @@ fjbm 进出 刊出
 fjbn 进了
 fjbq 塌陷
 fjbt 乾隆
-fjbw 教师队伍 进阶
+fjbw 进阶 教师队伍
 fjby 堤防
 fjcf 朝圣
 fjck 塌台
@@ -13669,7 +13669,7 @@ fqte 远航
 fqtf 均等 元稹 远行
 fqtg 远征
 fqth 无处 远处
-fqtk 过饱和 远程
+fqtk 远程 过饱和
 fqto 靎
 fqtq 均衡
 fqtr 无物 无我
@@ -14845,7 +14845,7 @@ gayh 开店
 gayj 开课
 gayl 武库
 gaym 开设 开市
-gayn 开遍 开户 开启 开幕词 刑讯
+gayn 开启 开遍 开户 开幕词 刑讯
 gayo 形迹
 gayq 一劳永逸
 gayt 开放 开庭
@@ -15860,7 +15860,7 @@ ghic 政治 琡
 ghif 政法 玷污 正法
 ghii 下水
 ghim 逼上梁山 下滑
-ghip 下沉 政党 正常
+ghip 正常 下沉 政党
 ghir 正派
 ghis 下酒
 ghit 下海
@@ -18913,7 +18913,7 @@ hhmd 上岸
 hhmf 上周
 hhmh 上帐
 hhmm 上山 上岗
-hhmq 上风 上网 占上风
+hhmq 上网 上风 占上风
 hhmt 上峰
 hhnb 愳
 hhnf 上层
@@ -23695,7 +23695,7 @@ iyjf 满州里 済 瀍
 iyjg 流量 済 濟 湻
 iyjh 济 浏 流畅 瀏 嚠
 iyjj 液晶
-iyjt 流星 游览 浏览
+iyjt 游览 浏览 流星
 iyk 滖
 iyke 洋为中用 滖 瀼
 iykk 渡口
@@ -26248,7 +26248,7 @@ kbxu 中子弹
 kbyj 吸附剂
 kbym 贵阳市
 kbyt 叩谢
-kc 吧 吗 唉
+kc 吧 唉 吗
 kcb 邑 浥
 kcbb 嗓子
 kcbk 噊
@@ -26269,6 +26269,7 @@ kcip 叹赏
 kciu 啜泣
 kck 咍
 kcka 唉呀 蹂躏
+kckc 吧唉
 kckd 吗啡
 kcke 吮吸
 kckg ！ 叹号 咍
@@ -31683,7 +31684,7 @@ mqdc 网友
 mqde 崤
 mqdf 风压
 mqdk 骨鲠在喉
-mqdm 见面 网页
+mqdm 网页 见面
 mqdy 赡 嶦 贍
 mqee 岁月 风貌 风月
 mqeh 崅 嶰
@@ -31694,7 +31695,7 @@ mqfb 见地
 mqfc 风云 刚去
 mqff 风土
 mqfg 风干 风雨
-mqfh 风趣 网址 刚直 刚走
+mqfh 网址 风趣 刚直 刚走
 mqfj 购进
 mqfl 风雷
 mqfn 风声
@@ -33116,7 +33117,7 @@ ngud 怀着 情状
 ngug 尿毒症
 nguh 怦
 nguj 情意 发现问题
-nguk 民政部 情况
+nguk 情况 民政部
 ngum 情商
 ngut 悟道
 nguy 屋门
@@ -34074,7 +34075,7 @@ nteu 发胖 司各脱
 ntev 飞毛腿
 ntf 尾 忤
 ntfb 属地 屘
-ntfc 屐 发动 改动 悸动 发去
+ntfc 改动 屐 发动 悸动 发去
 ntfd 必需
 ntff 屗 屛
 ntfg 发坏
@@ -34177,7 +34178,7 @@ ntov 屦 已知数 尾数 屨
 ntoy 愀
 ntpe 发家
 ntpf 恪守
-ntpg 必定 改写
+ntpg 改写 必定
 ntpu 属实
 ntpv 发案
 ntpw 发窘 必究
@@ -34718,7 +34719,7 @@ nyiw 尽兴
 nyiy 惊 翞 驚
 nyj 昼 晝
 nyjf 心里
-nyjg 昼 尽是 尽量 居高临下 懠
+nyjg 尽量 昼 尽是 居高临下 懠
 nyjh 迟早 尽早 懠
 nyjj 昼日
 nyk 咫
@@ -38325,7 +38326,7 @@ pwsg 穷酸
 pwsh 空想
 pwsi 空档
 pwsn 完全可以
-pwst 安全可靠 空格 
+pwst 空格 安全可靠 
 pwsu 穼 罙
 pwt 窗
 pwtb 社会科学院
@@ -47211,7 +47212,7 @@ sgeq 酥脆
 sgey 醒脑
 sgf 酝 醖 醞
 sgfa 西域
-sgfb 酵 本地
+sgfb 本地 酵
 sgfc 酝 西去
 sgfd 西城
 sgff 本土 醻
@@ -50904,7 +50905,7 @@ thg 片
 thga 处刑 版型 牋 牑
 thgc 版
 thgd 牍 牘
-thgf 牌 处于 牉 牔
+thgf 处于 牌 牉 牔
 thgh 牗
 thgi 怎不
 thgj 自理 处理 牏
@@ -54203,7 +54204,7 @@ uduf 关闭 减半 着装
 udug 养病 羊羔
 udui 療
 uduj 善意 着意
-uduk 善 状况 头部 譱
+uduk 头部 善 状况 譱
 udum 券商
 udun 判决
 uduq 送交
@@ -55224,7 +55225,7 @@ ukit 冲洗 意味深长
 ukiv 问津
 ukiy 冲浪
 ukj 剖
-ukjg 总是 问题 冲量 总量
+ukjg 问题 总是 冲量 总量
 ukjh 剖
 ukjp 闭路电视
 ukjt 总监 总览
@@ -55473,7 +55474,7 @@ umjg 商量 端量
 umk 疝 閊
 umkd 瘑
 umkg 商号
-umkk 商品 端口
+umkk 端口 商品
 umlf 商团
 umlw 商界
 umm 瘿
@@ -56575,7 +56576,7 @@ uvtg 敝帚自珍
 uvtj 兼得
 uvtk 兼程
 uvtl 兼备
-uvtm 妾身 瘦身
+uvtm 瘦身 妾身
 uvtp 兼管
 uvua 兼并
 uvud 兼差
@@ -57329,7 +57330,7 @@ vcvc 妈妈
 vcvi 奴隶
 vcvr 奴婢
 vcwb 始创
-vcwg 即使 即便
+vcwg 即便 即使
 vcwh 奴仆
 vcwo 鴑 鵖
 vcwq 寻欢作乐
@@ -59658,7 +59659,7 @@ wfl 舆
 wflk 传回
 wflm 传动轴 儥
 wflt 传略
-wflw 舆 传输 輿
+wflw 传输 舆 輿
 wfm 璺
 wfma 祭典
 wfmb 付邮
@@ -60181,7 +60182,7 @@ whnd 候
 whnh 偉
 whnn 修书 佀
 whnr 从此以后
-whnt 个性 修改
+whnt 修改 个性
 whnu 修习
 whoa 修炼
 whog 企业 修业
@@ -66660,7 +66661,7 @@ ymou 调料
 ymoy 高炉
 ymp 迒
 ympf 高寒
-ympg 庙宇 敲定 设定
+ympg 庙宇 设定 敲定
 ympj 设宴
 ympn 高官
 ympt 高额
@@ -66798,7 +66799,7 @@ yney 遍及
 ynf 讯 訊
 ynfa 记载 词霸
 ynfb 遍地
-ynfc 妄动 启动 扇动 忘却 亡魂 永劫
+ynfc 启动 妄动 扇动 忘却 亡魂 永劫
 ynff 启封
 ynfg 词干
 ynfh 讯 废墟 记起 肩起 訊
