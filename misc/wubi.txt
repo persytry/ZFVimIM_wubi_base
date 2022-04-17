@@ -8167,7 +8167,7 @@ dmdf 硸
 dmdh 而在
 dmdi 大风大浪
 dmdj 而非 顨
-dmdm 面面 布面 页面
+dmdm 页面 面面 布面
 dmdn 而成
 dmdo 碳
 dmds 泰山压顶
@@ -8780,7 +8780,7 @@ drsw 百年树人
 drt 碑
 drtc 厉兵秣马
 drtd 原籍
-drtf 碑 原先 原告
+drtf 原先 碑 原告
 drtg 原生
 drth 原处 原版
 drtr 原物
@@ -14183,7 +14183,7 @@ fukm 裁判员
 ful 增 啬
 fulg 吉普车 趣闻轶事
 fulj 增 増
-fulk 啬 增加 嗇
+fulk 增加 啬 嗇
 fult 示意图
 fulu 过关斩将
 fulw 境界
@@ -29850,7 +29850,7 @@ lpqy 边贸
 lprh 连年
 lprm 辖制
 lpru 连接
-lpsa 连横 边框
+lpsa 边框 连横
 lpsk 国家机器
 lpsl 连枷
 lpsp 国家机密
@@ -50857,7 +50857,7 @@ tgye 征衣
 tgyf 生计 征讨 重装 重读 重整旗鼓
 tgyi 策应 生就
 tgym 征调
-tgyn 生词 重启
+tgyn 重启 生词
 tgyo 生变
 tgyq 征询 垂询
 tgys 征订
@@ -52983,7 +52983,7 @@ tuhx 生产战线
 tuhy 従
 tuic 物资流通
 tuid 税源
-tuif 乘法 简洁
+tuif 简洁 乘法
 tuii 得意洋洋
 tuil 生产潜力
 tuip 科学
@@ -56347,7 +56347,7 @@ utsv 首要
 utsy 道术
 utt 產
 utta 首长
-uttf 道德 首先 疾行 道行 首选
+uttf 首先 道德 疾行 道行 首选
 uttg 产生 産 產
 uttj 剷
 uttp 单簧管
@@ -62732,7 +62732,7 @@ wytl 储备
 wytm 偏向 信筒
 wyto 今番 今秋 偽
 wytp 食管
-wytq 领衔 偏移 依稀
+wytq 偏移 领衔 依稀
 wytr 食物 信物 依循
 wyts 信箱 信条
 wytt 含笑
