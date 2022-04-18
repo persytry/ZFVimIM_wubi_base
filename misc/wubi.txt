@@ -15314,7 +15314,7 @@ geu 表
 geud 静养
 geue 五脏六腑
 geuf 青壮
-geuj 表彰 表单 表意 表音 静音
+geuj 表单 表彰 表意 表音 静音
 geun 表决
 geuq 青瓷
 geus 表亲
@@ -23701,7 +23701,7 @@ iyjf 满州里 済 瀍
 iyjg 流量 済 濟 湻
 iyjh 浏 济 流畅 瀏 嚠
 iyjj 液晶
-iyjt 游览 浏览 流星
+iyjt 浏览 游览 流星
 iyk 滖
 iyke 洋为中用 滖 瀼
 iykk 渡口
@@ -36689,6 +36689,7 @@ pfqf 冠
 pfqh 塞外
 pfqk 冠名
 pfqo 鵍
+pfqpfdn 完完成
 pfqv 宼
 pfrf 守擂
 pfrg 赛后
@@ -43344,6 +43345,7 @@ rgug 兵痞
 rguh 抨 兵站
 rguk 兵部 后部
 rgum 后端
+rgumr 后端的
 rgup 皇帝
 rguq 后效
 rguw 挟
@@ -49144,7 +49146,7 @@ svw 楰
 svwg 要命
 svwr 要件
 svww 要价 要人
-svwy 要领 概念 楰
+svwy 概念 要领 楰
 svxj 要旨
 svxk 要强
 svxq 根绝
@@ -51398,7 +51400,7 @@ tjsu 梨
 tjsy 稞 复述 复核
 tjt 复 複
 tjtd 得知 香甜
-tjtf 筛选 复选
+tjtf 复选 筛选
 tjtg 复生 篂
 tjth 利息
 tjtj 得利 复利 馫
@@ -52626,7 +52628,7 @@ trw 秩
 trwa 特供
 trwd 特优
 trwf 科技领域 科技人才
-trwg 特使 特例 我俩 特命 特邀代表 牷
+trwg 特例 特使 我俩 特命 特邀代表 牷
 trwh 物候
 trwk 科技人员
 trwr 物件 科技体制
@@ -55128,7 +55130,7 @@ ujsf 音标
 ujsh 单相 意想
 ujsm 单机
 ujt 赣
-ujtf 单行 单选
+ujtf 单选 单行
 ujth 竟自 韸
 ujtk 章程 单程
 ujtm 赣 意向 单身 单向 贛
@@ -62077,7 +62079,7 @@ wvwv 分岔 忿忿
 wvww 仇人 创始人 伊人
 wvwx 分化
 wvxa 分红
-wvxe 分级 分组
+wvxe 分组 分级
 wvxg 分母
 wvxu 贫弱
 wvxw 颁给 分维
