@@ -24292,7 +24292,7 @@ jfd 里 裡 裏
 jfde 时髦
 jfdf 时辰
 jfdj 蠕 曘 蝡
-jfdm 时而 里面
+jfdm 里面 时而
 jfdo 黙
 jfdy 时态
 jff 蛙 圼
@@ -52408,7 +52408,7 @@ tqxi 籙
 tqxo 稀粥
 tqy 彴
 tqya 知名度
-tqyl 称谓 称为
+tqyl 称为 称谓
 tqyt 称谢 称许 黎族 得鱼忘筌
 tqyv 生儿育女
 tqyy 自然主义 彴
