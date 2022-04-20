@@ -4420,7 +4420,7 @@ bpxn 陀
 bpyk 耽误
 bq 隐 聊 陷
 bqa 阺
-bqaa 隐慝 陶工 隐匿 隐式
+bqaa 隐式 隐慝 陶工 隐匿
 bqad 隐藏
 bqag 阺
 bqai 陷落
@@ -8718,7 +8718,7 @@ drfl 有气无力
 drfn 原声
 drft 压迫者
 drg 砶
-drga 原形 原型
+drga 原型 原形
 drgd 大后天
 drge 万年青
 drgf 有损于
@@ -15916,6 +15916,7 @@ ghpy 正视
 ghq 璨
 ghqb 正凶
 ghqc 正色
+ghqer 璨遥
 ghqg 下铺
 ghqi 玻尔
 ghqj 下旬 正象
@@ -16035,7 +16036,7 @@ gieb 不服 不孕
 gied 还须 不须
 gieg 琑
 giej 甭
-giep 不爱 不受
+giep 不受 不爱
 giet 不用 不胜
 giev 不妥
 giey 不及
@@ -19579,6 +19580,7 @@ htip 睡觉
 htkk 战利品
 htlw 睹物思人
 htmq 瞅见
+htmqntyo 瞅见改变
 htmt 矀
 htn 睙
 htnd 睙
@@ -31116,7 +31118,7 @@ mgvh 崨
 mgvt 同姓
 mgwb 贩毒分子
 mgwd 同僚
-mgwf 同仁 赋值
+mgwf 赋值 同仁
 mgwg 同命
 mgwl 贩毒集团
 mgwo 同伙
@@ -33779,7 +33781,7 @@ nnsv 快要
 nnsw 尸检
 nnt 怭
 nnta 局长
-nntd 书籍 已知
+nntd 已知 书籍
 nnte 快艇
 nntf 羽毛
 nntg 书生
@@ -34289,7 +34291,7 @@ ntyg 发证
 ntyi 以身试法 兦
 ntyl 改为
 ntyn 尾房
-ntyo 发迹 改变
+ntyo 改变 发迹
 ntyp 发亮
 ntys 改订 发麻
 ntyt 发放 发话 履行义务
@@ -35048,6 +35050,7 @@ odow 粗面粉
 odoy 烣
 odpr 燎原之势
 odqn 烤面包
+odqnod 烤面包类
 odrd 烦扰
 odrm 烟灰缸
 odrw 类推
@@ -38016,7 +38019,7 @@ puut 襒
 puuv 补妆
 puuw 裨益 补益
 puv 初
-puvc 寝 初始 寢
+puvc 初始 寝 寢
 puve 裉
 puvf 襑
 puvi 实录
@@ -38030,7 +38033,7 @@ puwc 衳 袊 襏
 puwd 袱
 puwe 被俘 袗
 puwf 袝 袵
-puwg 补全 实例 襳
+puwg 实例 补全 襳
 puwh 补修
 puwi 裣 补偿 襝
 puwj 衸 褕 襘
@@ -40141,7 +40144,7 @@ qkrt 名手
 qksa 名模
 qksc 针叶树
 qksf 免票
-qksg 够本 句柄
+qksg 句柄 够本
 qkso 钟楼
 qkst 狭路相逢 够格
 qksu 名校
@@ -40548,7 +40551,7 @@ qnu 饼
 qnua 饼 餅
 qnud 馒头 饲养 乌头 皱眉头 包头
 qnue 饭前
-qnuf 馐 包装 饈
+qnuf 包装 馐 饈
 qnug 急性病 多发病
 qnuj 包间
 qnuk 餢 饍
@@ -42685,7 +42688,7 @@ rcy 瓜 払
 rcya 反诬
 rcyf 反诘
 rcyg 反证
-rcyi 瓜 反应
+rcyi 反应 瓜
 rcyj 搔 瓥 掻
 rcym 反讽 抬高
 rcyn 瓟
@@ -60078,7 +60081,7 @@ wgtf 例行 全靠
 wgtg 便笺 分裂生殖
 wgth 合算 人事处 全息 分理处 代表处
 wgti 你死我活
-wgtj 舍不得 便利 使不得 使得 优惠待遇
+wgtj 舍不得 使得 便利 使不得 优惠待遇
 wgtk 例程 全程
 wgtl 债务
 wgtm 全身 合身
@@ -62752,7 +62755,7 @@ wyul 禽兽 作为意志和表象的世界
 wyum 供应商
 wyuo 会议资料
 wyup 偏旁 体育竞赛
-wyuq 集资 依次 仿效 领奖
+wyuq 依次 集资 仿效 领奖
 wyus 令尊
 wyut 停产 念道 俯首
 wyuu 健康状况 体育新闻
@@ -65124,7 +65127,7 @@ yalf 文工团
 yalg 试车
 yalh 遮罩
 yals 文艺思想
-yalt 谋略 试图 诱惑力
+yalt 试图 谋略 诱惑力
 yalu 文艺圈
 yalw 试办 文艺界 文艺团体
 yam 席 蓆
