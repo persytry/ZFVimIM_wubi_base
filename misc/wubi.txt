@@ -5772,6 +5772,7 @@ ckyv 驯良
 ckyw 台座
 cl 劝 骡
 claa 劝戒
+claantnt 劝戒属性
 clbb 骡子
 clbe 劝阻
 clcn 骡马
@@ -14808,7 +14809,7 @@ gatu 理工科
 gatv 刑律
 gaty 开往
 gaub 武警部队
-gaud 开关 开头 形状 开卷 开着
+gaud 开头 开关 形状 开卷 开着
 gauf 武斗 武装
 gaui 开阔
 gauj 形音
@@ -16098,7 +16099,7 @@ giiw 不渝
 giiy 不济
 gije 不明
 gijf 不时
-gijg 还是 不是
+gijg 不是 还是
 gijh 不畅 不曰 一清早
 gijj 不日
 gijn 不暇
@@ -22195,7 +22196,7 @@ ipm 沉
 ipmj 赏赐 峃
 ipmm 深山
 ipmn 沉
-ipmq 觉 常见 学风 党风 覚 覺 斍
+ipmq 常见 觉 学风 党风 覚 覺 斍
 ipmw 党内
 ipn 涫
 ipnd 演剧
@@ -37953,7 +37954,7 @@ puqv 褶皱
 puqy 袛 襜
 pur 裨
 purb 补报
-purf 裨 实质
+purf 实质 裨
 purg 被捕 袙
 purh 初年
 puri 袾
@@ -38652,7 +38653,7 @@ pyt 祚
 pyta 社长
 pytd 祖籍 祝辞 神智 祅
 pyte 神秀 神舟 祣
-pytf 祚 祖先 祷告 赛义德 祍
+pytf 祖先 祚 祷告 赛义德 祍
 pyth 神算
 pytj 福利
 pytk 祥和 祰
@@ -47623,7 +47624,7 @@ shwg 相命
 shwn 相似
 shwq 相像 想像
 shwu 相伴 相位
-shwy 相信 想念 相依 相仿 相邻 椇
+shwy 相信 相邻 想念 相依 相仿 椇
 shxi 橴
 shxm 椃
 shxo 相继
@@ -61447,7 +61448,7 @@ wstd 休憩
 wstf 何等
 wstg 体重
 wsth 何处 售票处 休息
-wstk 体积 何种
+wstk 何种 体积
 wsto 鵂
 wstr 何物
 wstv 体委
@@ -63269,6 +63270,7 @@ xfrp 编者按
 xfrs 引进技术
 xfrt 乡土气息 终南捷径
 xfsq 结构
+xfsqxfwg 结构结合
 xfsy 结核
 xft 绪
 xfta 贯彻
@@ -66198,7 +66200,7 @@ yiuj 请注意
 yiuq 就将 应将 京郊
 yivk 就如 应召
 yivt 京九
-yiwf 应付 就会
+yiwf 就会 应付
 yiwg 就使 夜深人静
 yiwo 鶁
 yiwq 就像
