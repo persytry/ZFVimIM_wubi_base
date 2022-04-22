@@ -16868,7 +16868,7 @@ gmss 两栖
 gmsu 两样
 gmtd 遭逢
 gmte 刺透
-gmtf 现行 再造 两千 两行 丙午
+gmtf 两行 现行 再造 两千 丙午
 gmtg 两重 再生
 gmth 再版
 gmtj 不见得 不由得
@@ -17757,6 +17757,7 @@ gtll 麦田
 gtln 璁
 gtlp 一笑置之
 gtmk 珦
+gtmkgmf 珦再
 gtmm 王船山 不知凡几
 gtmy 一般见识
 gtn 琁
@@ -33123,7 +33124,7 @@ ngta 司长
 ngtb 恬不知耻
 ngtd 情敌
 ngtf 司徒
-ngtj 怪不得 懒得 恨不得
+ngtj 懒得 怪不得 恨不得
 ngtk 情种
 ngtr 怀特
 ngts 情不自禁
@@ -38041,7 +38042,7 @@ puwk 裕 袷
 puwn 衿 补假
 puwq 实像 裞
 puwr 襷
-puws 褓 实体 裸体 襍
+puws 实体 褓 裸体 襍
 puwt 襒
 puwv 衯
 puww 实价 被人 襝
@@ -50930,7 +50931,7 @@ thgd 牍 牘
 thgf 牌 处于 牉 牔
 thgh 牗
 thgi 怎不
-thgj 自理 处理 牏
+thgj 处理 自理 牏
 thgk 处事 自带 牊
 thgl 版画
 thgm 自责 牘
