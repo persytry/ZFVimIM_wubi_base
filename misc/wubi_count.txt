@@ -410,7 +410,7 @@ gjnt 2
 gjq 14
 gjqe 4
 gjqq 6
-gjus 6
+gjus 7
 gjvb 2
 gk 5
 gkad 3
@@ -1173,7 +1173,7 @@ smrm 1
 sqdn 1
 sqtf 18
 src 1
-sshh 2
+sshh 3
 st 6
 staa 5
 std 2
@@ -1248,7 +1248,7 @@ tgyn 1
 th 4
 tha 3
 thd 12
-thfc 13
+thfc 14
 thg 2
 thgc 25
 thgf 6 4
