@@ -352,7 +352,7 @@ adha 欺瞒
 adhb 荐
 adhd 葜
 adhf 茬
-adhh 基础上 项目
+adhh 项目 基础上
 adhi 基督
 adhk 苦战 基点
 adht 蒧
@@ -8207,7 +8207,7 @@ dmj 而
 dmjd 面 耎
 dmje 耏
 dmjf 耐
-dmjg 鸸 而是 鴯
+dmjg 而是 鸸 鴯
 dmjj 而 蠠
 dmjk 厕 厠 廁
 dmjl 勔
@@ -33336,7 +33336,7 @@ nhwo 鶥
 nhwr 收件
 nhww 心上人
 nhwx 收货
-nhwy 惧 收集 悼念
+nhwy 收集 惧 悼念
 nhxj 收费
 nhxm 收纳
 nhxp 收缩
@@ -36722,6 +36722,7 @@ pfue 赛前
 pfug 完美
 pfuj 寒意
 pfuk 赛况
+pfupvuf 守安装
 pfuq 守将 初露头角
 pfus 宗亲
 pfuw 寒冷
@@ -53029,7 +53030,7 @@ tuny 自尊心 生产性建设
 tuov 乘数
 tup 徬
 tupd 等闲之辈
-tupg 科室 简写
+tupg 简写 科室
 tupp 等闲视之 生产定额
 tupt 乘客 税额
 tupy 徬 篣
@@ -60396,7 +60397,7 @@ wjhh 伸
 wjht 敒
 wjhy 偍
 wjj 介 倡
-wjjg 倡 但是 储电量
+wjjg 但是 倡 储电量
 wjjm 偶遇
 wjl 僈
 wjlc 僈
@@ -67002,7 +67003,7 @@ ynu 戽 忞 悥
 ynud 户头 肩头 词头
 ynuf 戽 豪情壮志
 ynuh 謘
-ynuj 房间 刻意 肩章 词意 词章
+ynuj 刻意 房间 肩章 词意 词章
 ynuk 讯问
 ynuq 高层次
 ynut 房产 词首
