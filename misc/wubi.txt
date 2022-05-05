@@ -18972,7 +18972,7 @@ hhu 卡 歨
 hhub 上瘾
 hhuc 止痛
 hhud 目送 上头
-hhue 上前 目前
+hhue 目前 上前
 hhuf 上装
 hhug 上闩
 hhuk 上部
@@ -24758,7 +24758,7 @@ jjfh 日趋 晘
 jjfi 日晒雨淋
 jjfj 日刊 日进
 jjfk 曝露 昌吉
-jjfn 日场 日志
+jjfn 日志 日场
 jjfq 日均 日元
 jjft 愚昧无知
 jjg 蛳 昍 蚎 螄
@@ -46547,7 +46547,7 @@ sakk 樞
 sakm 柜员 櫃
 sakq 欟
 saky 權
-salk 横加 框架
+salk 框架 横加
 salm 枢轴 横轴
 salp 西欧国家 櫣
 salt 框图 西雅图 櫗
