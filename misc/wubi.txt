@@ -6961,7 +6961,7 @@ deh 髭 砽
 dehc 厚脸皮 髲
 dehk 有点
 dehn 大脑皮层
-dehx 髭 有些
+dehx 有些 髭
 dei 髾
 deie 磁悬浮 髾
 deif 有法
@@ -10584,7 +10584,7 @@ esdg 采石
 esdm 彩页
 esdy 采矿
 ese 彩 綵
-eset 彩 采用
+eset 采用 彩
 esf 膘 臕
 esfc 彩云
 esfi 膘
@@ -11363,7 +11363,7 @@ fcbl 霧
 fcbm 支出
 fcbn 动了 去了
 fcbt 雺 霚
-fcbw 支队 去除
+fcbw 去除 支队
 fcc 墋
 fcca 走马观花
 fccc 却又
@@ -16638,7 +16638,7 @@ glbm 画出
 glbp 画院
 glcb 不畏艰险
 gld 珚
-gldm 画面 画布
+gldm 画布 画面
 gldn 画成
 gldy 珚
 glf 盏 盞 醆
@@ -22151,7 +22151,7 @@ ipii 浑水 深水
 ipij 常温 浑浊
 ipim 沉没
 ipio 浓淡
-ipip 深沉 常常 沉淀 堂堂 沉沉 淙淙 深深 学堂
+ipip 沉淀 深沉 常常 堂堂 沉沉 淙淙 深深 学堂
 ipiq 赏光
 ipir 学派 党派
 ipis 沉渣 深潭
@@ -30911,7 +30911,7 @@ mfkp 週
 mfky 雕 彫 琱 鵰
 mfl 贖
 mfld 赎罪
-mflf 周转 周围 财团
+mflf 周围 周转 财团
 mflk 赎回
 mflm 贖
 mflp 周边
@@ -37924,7 +37924,7 @@ puod 裱糊
 puof 襨
 puog 实业
 puoo 裧
-puov 褛 实数 被减数
+puov 实数 褛 被减数
 puoy 襆
 pup 衴
 pupd 被害 宰割
@@ -42259,7 +42259,7 @@ raaw 白花花
 rab 皂 皁
 rabc 捞取
 rabg 拱卫 搑
-rabm 描出 找出
+rabm 找出 描出
 rabs 按劳取酬
 racn 拒马
 ract 兵荒马乱
@@ -44472,7 +44472,7 @@ rnyc 扬弃 摒弃
 rnyf 抒情诗
 rnyg 反民主
 rnyk 所误
-rnyl 所为 所谓
+rnyl 所谓 所为
 rnyq 指导方针
 rnys 拟订
 rnyt 扬州 气话
@@ -47027,7 +47027,7 @@ sffc 飘动 飘去 橒
 sffg 桂 飘雨 枝干
 sffi 标示
 sffm 相去无几
-sffn 樗 标志
+sffn 标志 樗
 sffq 飘远 橈
 sffu 飘乎
 sffv 飘雪
@@ -52276,7 +52276,7 @@ tqbt 稯 篘
 tqbw 先锋队 移除
 tqcd 生杀予夺
 tqcm 自然观
-tqd 稀 衡
+tqd 衡 稀
 tqdc 称雄
 tqde 稀有
 tqdf 稳压
@@ -56841,7 +56841,7 @@ uxjd 疿
 uxjf 背时
 uxjk 疿
 uxjv 递归
-uxjy 背影 背景
+uxjy 背景 背影
 uxkg ‘’ 单引号
 uxkh 冀中
 uxkq 弟兄
@@ -59931,7 +59931,7 @@ wghq 便餐
 wgi 剑 剣 剱 劍 劒
 wgia 倒灌 倒满
 wgib 便池
-wgif 佥 合法 合理流动 僉
+wgif 合法 佥 合理流动 僉
 wgig 分不清 伾
 wgij 剑
 wgik 俖
@@ -66615,7 +66615,7 @@ ymft 调教 高考
 ymg 詷
 ymga 调弄 敲开
 ymgd 这几天
-ymgf 文风不动 高球 高于
+ymgf 高于 文风不动 高球
 ymgg 褒贬不一 譝
 ymgh 市政 设下 高下
 ymgj 调理 高更
