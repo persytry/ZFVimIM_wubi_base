@@ -45910,7 +45910,7 @@ rvvp 扫帚
 rvwa 挪借 招供
 rvwd 蛰伏
 rvwf 垫付
-rvwy 招集 搜集 抛售 招领
+rvwy 执念 招集 搜集 抛售 招领
 rvxa 殷红
 rvxg 热线
 rvxh 招引
@@ -51088,7 +51088,7 @@ thtr 自我
 thtu 版税
 thtv 自律
 thud 片状 片头
-thuf 辠
+thuf 自闭 辠
 thug 臭美
 thuj 鼻音 辠
 thuk 自问
