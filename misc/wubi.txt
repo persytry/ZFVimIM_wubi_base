@@ -12176,7 +12176,7 @@ fhgc 直到 直至 起到 赶到 走到
 fhgf 趋于
 fhgh 真正 垰
 fhgi 真不 趚
-fhgj 趔 真理
+fhgj 真理 趔
 fhgk 超速 起事 趣事 趫
 fhgm 考虑不周
 fhgo 起来 进步事业 越来
@@ -13667,7 +13667,7 @@ fqsm 无机
 fqt 夌
 fqta 坦然自若
 fqtc 无私
-fqtd 无敌 无知 顽敌
+fqtd 无知 无敌 顽敌
 fqte 远航
 fqtf 均等 元稹 远行
 fqtg 远征
@@ -38962,7 +38962,7 @@ qbwj 怨偶
 qbwo 鴛
 qbws 独联体
 qbwv 怨仇
-qbwy 凶信
+qbwy 怨念 凶信
 qbyy 怨言
 qc 色 勾
 qcab 狂欢节
@@ -41582,7 +41582,7 @@ qttd 狼籍 狂乱 狧
 qtte 猏
 qttf 逛街 独行 狅 獋 猈
 qttg 独生 狌
-qtth 独自 犹自 狐臭
+qtth 独自 独处 犹自 狐臭
 qttj 猁 独得 锋利
 qttk 狢 獢
 qttm 独身
@@ -45984,7 +45984,7 @@ rwgd 揆
 rwge 扮靓
 rwgg 拴
 rwgi 捡 撿
-rwgj 揄 推理
+rwgj 推理 揄
 rwgk 拾 携带 失事 推事 搶
 rwgn 扲
 rwgr 搿
@@ -53897,7 +53897,7 @@ ubyx 产出率
 uc 冯 痛
 uca 痉 痙
 ucaa 竣工
-ucad 痉 痛苦
+ucad 痛苦 痉
 ucah 交通工具
 ucai 闯荡
 ucak 閞
