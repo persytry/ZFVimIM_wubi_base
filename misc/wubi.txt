@@ -5817,7 +5817,7 @@ cmg 骋 駎
 cmgk 駧
 cmgn 骋 騁
 cmhh 观止
-cmhk 观战 观点
+cmhk 观点 观战
 cmhq 观瞻
 cmim 观测
 cmip 观赏
@@ -16904,7 +16904,7 @@ gmwk 瓗
 gmwm 两侧
 gmwn 一见倾心 琌
 gmwr 两件
-gmwt 现任 责任 刺伤
+gmwt 责任 现任 刺伤
 gmwu 两倍 两位
 gmww 两 两败俱伤 両 兩
 gmwx 现货
@@ -50629,7 +50629,7 @@ tgdc 条形码 重码
 tgdd 重大 生厌
 tgdf 生辰 重压 筓
 tgdg 生硬
-tgdh 自下而上 生存
+tgdh 生存 自下而上
 tgdm 重于泰山
 tgdn 生成
 tgdp 秤砣
