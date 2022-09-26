@@ -66787,7 +66787,7 @@ ymyy 这山望着那山高 訉
 yn 记 词 废
 ynaa 雇工 启发式
 ynab 鹿茸
-ynad 刻苦 房基
+ynad 刻苦 词项 房基
 ynah 肈
 ynai 刻薄 房东 词藻
 ynaj 刻划
