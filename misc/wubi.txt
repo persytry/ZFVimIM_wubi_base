@@ -326,7 +326,7 @@ adfa 劳而无功 莾
 adfb 基地
 adfe 莀
 adff 蓐
-adfg 若干 苦干 其二 基干
+adfg 若干 其二 苦干 基干
 adfi 萘
 adfj 蒙在鼓里 期刊 斯坦
 adfn 荂
@@ -338,7 +338,7 @@ adg 葳
 adga 巧夺天工 荣辱与共
 adgc 甚至
 adge 藏青
-adgf 基于 苦于 甚于
+adgf 基于 甚于 苦于
 adgg 其一
 adgh 其下 勘正
 adgi 若不
@@ -366,7 +366,7 @@ adij 藉
 adim 勘测
 adip 苦学
 adis 苦酒 斟酒
-adit 苦活 苦海
+adit 苦海 苦活
 adiv 苦涩
 adiw 荐举
 adiy 藕
@@ -383,7 +383,7 @@ adkd 恭顺
 adkf 若 苦味
 adkh 其中
 adkj 蠚
-adkk 藉口 苦口 藏品 匲
+adkk 藏品 藉口 苦口 匲
 adkn 惹
 adkp 逽
 adl 苈 藶
@@ -11383,7 +11383,7 @@ fcef 露马脚
 fceg 支助
 fceh 埇
 fces 云彩
-fcet 动用 运用
+fcet 运用 动用
 fceu 翅膀
 fcey 动脉 埃及 支脉
 fcfa 运载
@@ -16601,7 +16601,7 @@ gkvj 剚
 gkwa 逼供
 gkwd 整段
 gkwf 融会
-gkwg 事例 融合 逼使 整合
+gkwg 融合 事例 整合 逼使
 gkwh 整个 整修
 gkwl 不遗余力
 gkwn 事假
@@ -16880,7 +16880,7 @@ gmtt 两笔
 gmty 不由自主 再入
 gmu 责 責
 gmuc 刺痛
-gmud 两头 现状
+gmud 现状 两头
 gmuf 两半
 gmuj 不同意 两间
 gmuk 责问 现况
@@ -33011,7 +33011,7 @@ ngcn 司马
 ngcw 刁难
 ngd 刁
 ngde 怀有 情有
-ngdg 怀古 情感 心不在焉
+ngdg 情感 怀古 心不在焉
 ngdm 情面
 ngdn 悿
 ngdr 情愿
@@ -38559,7 +38559,7 @@ pyic 礼治 神汉
 pyif 礼法
 pyih 神婆
 pyii 祸水
-pyip 视觉 礼堂 祠堂 神学 禅学
+pyip 视觉 神学 礼堂 祠堂 禅学
 pyiq 祧
 pyis 祝酒
 pyiy 神游
@@ -42693,7 +42693,7 @@ rcyf 反诘
 rcyg 反证
 rcyi 反应 瓜
 rcyj 搔 瓥 掻
-rcym 反讽 抬高
+rcym 抬高 反讽
 rcyn 瓟
 rcyr 反诉
 rcyt 反话
@@ -43543,7 +43543,7 @@ rhtp 看管
 rhtr 牛犊 看我
 rhts 拉皮条
 rhty 掉入
-rhud 年头 看着 年关 掉头
+rhud 看着 掉头 披着 年头 年关
 rhue 年前
 rhuf 卸装
 rhug 看病
@@ -53439,7 +53439,7 @@ txgk 系带
 txgl 勄
 txgn 慜
 txgo 利比亚 赞比亚 鰵
-txgq 毓 系列 繁殖
+txgq 系列 毓 繁殖
 txgt 敏 自强不息
 txgu 每
 txgy 各级政府
@@ -54232,7 +54232,7 @@ uduf 关闭 减半 着装
 udug 养病 羊羔
 udui 療
 uduj 善意 着意
-uduk 头部 善 状况 譱
+uduk 善 状况 头部 譱
 udum 券商
 udun 判决
 uduq 送交
@@ -55140,7 +55140,7 @@ ujt 赣
 ujtf 单选 单行
 ujth 竟自 韸
 ujtk 章程 单程
-ujtm 赣 意向 单身 单向 贛
+ujtm 意向 单身 单向 赣 贛
 ujtn 戆 戇
 ujto 鶕 鷼
 ujtp 韼
@@ -55254,7 +55254,7 @@ ukit 冲洗 意味深长
 ukiv 问津
 ukiy 冲浪
 ukj 剖
-ukjg 问题 总是 冲量 总量
+ukjg 问题 总是 总量 冲量
 ukjh 剖
 ukjp 闭路电视
 ukjt 总监 总览
@@ -59946,7 +59946,7 @@ wgiy 合流 倒流 创一流 伓
 wgj 便
 wgje 食不果腹
 wgjf 傳
-wgjg 例题 倒是 便是 命题 合题 俹
+wgjg 命题 便是 倒是 例题 合题 俹
 wgji 倲
 wgjj 全日
 wgjm 倒映
@@ -62318,7 +62318,7 @@ wwwo 集体企业
 wwwq 人像 从父
 wwws 人体
 wwwt 伶俐
-wwwu 众 人们 坐位 价位
+wwwu 人们 众 坐位 价位
 wwww 人 人人 伶人 人伦 俗人 人丛 人欲 偷偷 从俗 合伙人 众人
 wwwx 合作化 集体化 人化 坐化
 wwwy 假仁假义 全体会议 从今 欲念
@@ -66930,7 +66930,7 @@ ynn 记 忘 扇 記
 ynna 氓
 ynnb 戹
 ynnd 扇 忘忧
-ynng 忘怀 房屋 永恒 忘情
+ynng 永恒 房屋 忘怀 忘情
 ynnm 齐刷刷
 ynnn 记忆 戺
 ynno 焈
@@ -68388,7 +68388,7 @@ ywxn 论 讹 訛 譌
 ywy 认 谁
 ywyc 詅 謢 﨎
 ywyf 论诗
-ywyg 认证 谁 论证 论语 谶语 誰
+ywyg 谁 论证 认证 论语 谶语 誰
 ywyk 认识 誝 謒
 ywyl 认为
 ywym 论调 夜市
