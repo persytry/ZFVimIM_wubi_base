@@ -404,7 +404,7 @@ admu 欺罔
 admw 其内
 admy 项 項
 adn 茂 藏
-adna 藏民 莱布尼茨
+adna 莱布尼茨 藏民
 adnf 基层
 adnn 藏书
 adnt 藏 茂 基础性 荿 蔵
@@ -17940,7 +17940,7 @@ gutj 平复
 gutk 平和 表音符号
 gutm 平躺
 gutn 整装待发
-gutq 平稳 平衡
+gutq 平衡 平稳
 guts 至关重要
 guty 夹入
 guud 夹着 平头
@@ -18630,6 +18630,7 @@ hcef 皮肤
 hcex 皮脂
 hcf 皯
 hcfh 皯
+hcfp 皮壳
 hcgf 皮球
 hcgi 颇不
 hcgk 皮带
@@ -20352,7 +20353,7 @@ idqu 尖锐
 idqy 沷
 idr 源 厵
 idrg 尖兵
-idri 源 源泉
+idri 源泉 源
 idrp 堂而皇之
 idrv 溽热
 idsd 尖顶
@@ -21390,7 +21391,7 @@ iiyj 洗涤剂 润滑剂
 iiyk 沙瓤
 iiyl 水库
 iiym 沙市
-iiyn 小流氓 消亡
+iiyn 消亡 小流氓
 iiys 消磨 水磨
 iiyt 水族
 iiyw 消夜
@@ -22151,7 +22152,7 @@ ipii 浑水 深水
 ipij 常温 浑浊
 ipim 沉没
 ipio 浓淡
-ipip 沉淀 深沉 常常 堂堂 沉沉 淙淙 深深 学堂
+ipip 常常 沉淀 深沉 堂堂 沉沉 淙淙 深深 学堂
 ipiq 赏光
 ipir 学派 党派
 ipis 沉渣 深潭
@@ -23303,7 +23304,7 @@ ivfp 湕
 ivfy 浔 潯
 ivg 汝
 ivgd 当天
-ivgh 当政 当下
+ivgh 当下 当政
 ivgk 当事
 ivgl 湽
 ivgo 澙
@@ -23777,7 +23778,7 @@ iyt 洲 漩
 iytb 游 湤 遊 逰
 iytd 游憩
 iyte 渡船 游艇 游船
-iytf 浒 流行 游行 游街 滸
+iytf 流行 游行 浒 游街 滸
 iytg 注重
 iyth 洲 漩
 iytj 流利
@@ -28366,7 +28367,7 @@ kwvo 鳴
 kwvs 嘄
 kwvt 咿
 kww 唑
-kwwf 唑 只会
+kwwf 只会 唑
 kwwk 唂
 kwwl 中华人民共和国
 kwws 中华人民共和国国歌 喻体
@@ -28723,7 +28724,7 @@ ldfp 罪过
 ldfx 力大无比
 ldg 轱 軲
 ldga 畸形
-ldgf 加在一起 囿于
+ldgf 囿于 加在一起
 ldgj 恩惠
 ldgm 罪责
 ldgn 轗
@@ -29456,7 +29457,7 @@ lkim 加油 圆滑
 lkip 加深
 lkir 加派
 lkit 四川省
-lkiu 圆润 回溯
+lkiu 回溯 圆润
 lkiy 回流
 lkjc 加紧
 lkje 加盟 回暖
@@ -38038,7 +38039,7 @@ puwe 被俘 袗
 puwf 袝 袵
 puwg 实例 补全 襳
 puwh 补修
-puwi 裣 补偿 襝
+puwi 补偿 裣 襝
 puwj 衸 褕 襘
 puwk 裕 袷
 puwn 衿 补假
@@ -38302,7 +38303,7 @@ pwng 容情
 pwnk 鹤壁 窹
 pwnm 窟
 pwnn 安全局
-pwnt 安全性 社会性 突发
+pwnt 突发 安全性 社会性
 pwny 穷尽 穿心 空心
 pwo 窭 窶
 pwof 窲
@@ -44657,7 +44658,7 @@ rpvf 探寻
 rpvg 按
 rpvn 挥刀
 rpw 控
-rpwa 控 近代
+rpwa 近代 控
 rpwd 揬
 rpwf 搾
 rpwg 迫使 按例 挥剑
@@ -50670,7 +50671,7 @@ tggj 生理
 tggk 生事 重整 先天不足
 tggl 策画
 tggm 重现 重责
-tggo 生来 重来
+tggo 重来 生灭 生来
 tggq 生死 生殖 垂死
 tggt 特殊政策
 tggu 生平
@@ -50778,6 +50779,7 @@ tgrn 管理所 生气
 tgro 第一手材料
 tgrr 垂死挣扎 第一把手
 tgrt 重托 垂手 生手 重播 第一手
+tgru 惩恶扬善
 tgrw 生擒 重挫 重迭
 tgry 管理制度
 tgs 秣
@@ -51436,7 +51438,7 @@ tjwa 香袋
 tjwb 利他
 tjwd 物是人非
 tjwf 复会
-tjwg 得便 复合
+tjwg 复合 得便
 tjwk 馠
 tjwr 复件
 tjws 得体
@@ -51544,6 +51546,7 @@ tkqe 和解
 tkqi 和乐
 tkqw 积欠
 tkqy 兎
+tkrf 种质
 tkrh 积年
 tkri 程朱
 tkrn 和气
@@ -51562,7 +51565,7 @@ tkta 委员长
 tktf 各行 积德
 tkth 各处 入口处 各自
 tktj 各得
-tktk 种种 各种 筥
+tktk 各种 种种 筥
 tkto 鵅
 tktr 和我 自吹自擂
 tkts 各条
@@ -52537,7 +52540,7 @@ trmm 犅
 trmp 物质财富
 trmy 牡丹
 trn 我
-trna 牧民 科技改革 特异
+trna 特异 牧民 科技改革
 trnc 犌
 trnf 臭氧层
 trng 鹅 科技司 鵝 鵞
@@ -52598,10 +52601,10 @@ trta 特长
 trtd 御敌
 trte 笨手笨脚
 trtf 稗 特等 鹅毛 我等 特选 犐 箄
-trtg 牲 特征 科技管理
+trtg 特征 牲 科技管理
 trth 我处
 trtj 物质待遇
-trtk 牿 特种 物种 犞
+trtk 物种 特种 牿 犞
 trtl 特务
 trtm 牧笛 秋后算帐 特向
 trtn 牦 氂 犛
@@ -53439,7 +53442,7 @@ txgk 系带
 txgl 勄
 txgn 慜
 txgo 利比亚 赞比亚 鰵
-txgq 系列 毓 繁殖
+txgq 系列 繁殖 毓
 txgt 敏 自强不息
 txgu 每
 txgy 各级政府
@@ -54106,7 +54109,7 @@ udjv 关照
 udkg 头号
 udkh 差距 差遣 养路
 udkk 关口 半成品
-udkl 判别 差别 送别
+udkl 差别 送别 判别
 udkm 减员
 udky 新历史主义
 udl 疬 癧
@@ -54176,7 +54179,7 @@ udqa 差错
 udqc 减色 着色
 udqe 头角 羊角 觠
 udqf 觠
-udqg 鲞 鲝 鮝 鮺 鯗
+udqg 养鱼 鲞 鲝 鮝 鮺 鯗
 udqh 关外
 udqk 减免
 udqm 减负
@@ -54998,7 +55001,7 @@ ujar 意匠
 ujat 戠
 ujax 意蕴
 ujb 鄣
-ujbb 童子 单子
+ujbb 单子 童子
 ujbg 间隔
 ujbh 鄣
 ujbi 间隙
@@ -56127,7 +56130,7 @@ uspg 奠定
 uspn 亲密
 uspw 尊容 闲空
 usq 鹇 鷳 鷴 鷼
-usqg 鹇 新鲜 闲钱
+usqg 新鲜 闲钱 鹇
 usqk 闲逸
 usqn 美术馆
 usqt 闲逛
@@ -60412,7 +60415,7 @@ wjnf 倡导
 wjng 介怀 傝
 wjnn 供电局
 wjnr 借题发挥
-wjnt 偶发
+wjnt 偶发 偶性
 wjov 偶数 公里数
 wjpq 伸冤
 wjq 偈
@@ -62535,7 +62538,7 @@ wydd 偏大
 wyde 含有
 wydf 倂
 wydg 仿古
-wydh 储存 今夏 依存
+wydh 储存 依存 今夏
 wydm 顀
 wydn 集成 念成
 wyds 会议厅
@@ -68651,7 +68654,7 @@ yytd 文辞 言辞 夜郎自大
 yyte 方舟
 yytf 广告 言行 文选 文告
 yytg 言重
-yyth 文牍 詶
+yyth 广延 文牍 詶
 yytk 方程 议程 言和 议和
 yytm 方向 文身 言论自由
 yytn 文秘
