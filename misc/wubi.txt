@@ -66697,7 +66697,7 @@ ymou 调料
 ymoy 高炉
 ymp 迒
 ympf 高寒
-ympg 庙宇 设定 敲定
+ympg 设定 敲定 庙宇
 ympj 设宴
 ympn 高官
 ympt 高额
