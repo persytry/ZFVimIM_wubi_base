@@ -4825,7 +4825,7 @@ bwef 墜
 bwet 险胜 聄
 bwf 附
 bwfb 险地 坠地
-bwfc 除却 除去
+bwfc 除去 除却
 bwff 坠 墜
 bwfi 際
 bwfu 险境
@@ -7439,7 +7439,7 @@ dgss 硬木
 dgsy 石柱 砞
 dgt 厂 丆  厰 廠
 dgta 厂长
-dgtd 古籍 感知 三乱
+dgtd 感知 古籍 三乱
 dgte 硬盘 古船
 dgtf 三千 三等
 dgtg 石 ≥
@@ -8458,7 +8458,7 @@ dnwn 大快人心
 dnwq 成像
 dnwt 万余
 dnwu 成倍
-dnwv 万分 成分
+dnwv 成分 万分
 dnww 成人 万众 成份 万人 有心人
 dnwx 成佛 趸货
 dnwy 砄
@@ -16266,7 +16266,7 @@ giyq 不义
 giyt 不许
 giyu 还说 不说 不详
 giyv 不良
-giyw 不论 否认 不认
+giyw 否认 不论 不认
 giyy 不该 不言
 gj 理 更
 gjaa 理工 理式
@@ -22855,7 +22855,7 @@ itdh 活存 浴血奋战 浲
 itdj 潪
 itdm 活页 洗面 海面
 itdp 洗碗 漨
-itdq 鋈 洛克
+itdq 洛克 鋈
 itds 水利厅
 itdu 法律顾问
 itdx 海龙
@@ -38379,7 +38379,7 @@ pwub 安全部队
 pwud 穿着 空头 军令状 竉
 pwue 空前
 pwui 空阔
-pwuj 空间 窨 究竟 社会问题
+pwuj 空间 究竟 社会问题 窨
 pwuk 宣传部 窘况
 pwul 安全装置
 pwun 竉
@@ -43453,7 +43453,7 @@ rhgh 爬下 年下 卸下 掉下 挊
 rhgk 年事
 rhgl 年画
 rhgm 卸责
-rhgo 年来 看来 扑灭
+rhgo 看来 扑灭 年来
 rhgs 年末
 rhgu 扯平
 rhh 攫
@@ -43735,7 +43735,7 @@ rjf 捍 扞
 rjfe 披星戴月
 rjff 提款
 rjfg 捏 提干 捚
-rjfh 捍 提起 揭起 皔
+rjfh 提起 揭起 捍 皔
 rjfi 提示 揭示
 rjfk 揭露
 rjfp 提壶
@@ -47579,7 +47579,7 @@ shna 相惜
 shnf 相悖
 shnh 椲
 shnn 檙
-shnt 栌 想必 櫨
+shnt 想必 栌 櫨
 shnu 想
 shod 相烦
 shoy 橡皮糖
@@ -47909,7 +47909,7 @@ sksv 可要
 sksw 歌
 skt 梠
 sktd 可知
-sktf 可选 可行 可靠 歌德 歌行
+sktf 可靠 可行 可选 歌德 歌行
 sktj 可得
 sktk 梠
 sktr 杯中物
@@ -50307,7 +50307,7 @@ tfck 行驶
 tfcl 篕
 tfct 千载难逢 矢志难移
 tfcu 丢 丟
-tfcw 毛难 先验
+tfcw 先验 毛难
 tfcy 毛驴 行骗 秐 秓
 tfd 壬 
 tfdd 千真万确 船老大
@@ -50316,7 +50316,7 @@ tfdf 壬辰
 tfdg 千古 壬戌
 tfdj 先辈 千百 穤
 tfdm 垂直面 街面
-tfdn 造成 告成 赞成 千万
+tfdn 造成 赞成 千万 告成
 tfdq 千克
 tfdw 先秦 先声夺人
 tfdy 千丈 选矿
@@ -50511,7 +50511,7 @@ tfta 行长
 tftc 行径
 tftd 先知 告辞 告知 适者生存
 tfte 行船 造船
-tftf 德行 等待 乖乖 毛毯 等等 壬午 先进生产者 先行 幷 筓
+tftf 等待 等等 先行 德行 乖乖 毛毯 壬午 先进生产者 幷 筓
 tftg 先生 毛重
 tfth 科教片 迁徙 选自
 tftj 箸 毛利 奥地利
@@ -51075,7 +51075,7 @@ thsu 怎样 臬
 thsw 自检
 thsy 自述 算术
 thta 处长 延长 片长
-thtc 自私 怎么
+thtc 怎么 自私
 thtd 自筹 自知
 thte 算盘
 thtf 自选 自行 自造 自赞
@@ -62737,7 +62737,7 @@ wyta 侂
 wytc 偏私
 wytd 人证物证俱在
 wyte 领航 停航
-wytf 领先 仿造 依靠 信徒 伪造 偃旗息鼓 停靠
+wytf 依靠 领先 仿造 信徒 伪造 偃旗息鼓 停靠
 wytg 今生 偏重 信笺
 wyth 信息 住处 公证处 登记处 停息
 wytl 储备
@@ -64548,6 +64548,7 @@ xurr 强将手下无弱兵
 xurv 弱势
 xurx 弹指
 xus 緧
+xusa 弹框
 xusf 繜
 xusg 緧
 xuta 弹簧
@@ -65991,7 +65992,7 @@ ygwr 证件
 ygws 主体
 ygwt 主任
 ygwv 评分
-ygww 主人 证人 评价 主从 肇事人
+ygww 评价 主人 证人 主从 肇事人
 ygwy 主食 证伪
 ygxe 评级
 ygxg 主线
@@ -68339,7 +68340,7 @@ ywsv 谁要
 ywsy 论述
 ywt 夜 亱
 ywtc 为什么
-ywtd 谁知 论敌 认知
+ywtd 论敌 认知 谁知
 ywte 夜航 座舱
 ywtf 亡命徒 夜行 言传身教
 ywth 论处
