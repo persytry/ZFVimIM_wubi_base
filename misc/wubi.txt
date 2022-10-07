@@ -4198,7 +4198,7 @@ bmds 出奇
 bmes 出彩
 bmet 聘用
 bmf 祟
-bmfc 出动 出去
+bmfc 出去 出动
 bmff 出土
 bmfg 聃 耼
 bmfh 出走
@@ -5583,7 +5583,7 @@ cfsg 圣杯
 cfsh 驦 骦
 cfsk 对歌
 cftd 对敌
-cftf 对等 对待
+cftf 对待 对等
 cftg 对策
 cftq 对称
 cftr 对我
@@ -6279,7 +6279,7 @@ cwtu 夋
 cwty 駼
 cwub 难闻
 cwud 验关 难关
-cwut 难产 难道
+cwut 难道 难产
 cwvo 鳮
 cwvp 逡巡
 cwvy 难忍
@@ -7399,7 +7399,7 @@ dgnm 三届
 dgnn 古书 瓳 瓺 砙
 dgnp 奇珍异宝
 dgnq 面不改色
-dgnt 戌 感性 硬性 非理性 感发 研发
+dgnt 感性 研发 硬性 非理性 感发 戌
 dgnu 奇形怪状 研习
 dgnv 感慨
 dgnw 悲天悯人
@@ -10742,7 +10742,7 @@ etnk 胳臂 噕
 etnn 胜局 肐 豟
 etno 爲
 etnt 服务性 胏
-etny 用心 县委书记 用以 用尽
+etny 用心 用以 用尽 县委书记
 eto 膰
 etoa 用煤
 etog 服务业
@@ -13988,7 +13988,7 @@ ftpn 教官
 ftpt 截长补短
 ftpu 老实
 ftpv 教案 走私案
-ftpw 考究 考察 赤身裸体
+ftpw 考察 考究 赤身裸体
 ftpy 无稽之谈
 ftq 耇 耈 耉
 ftqc 雾色
@@ -14227,7 +14227,7 @@ futd 丧乱
 futf 霍兰德 增选
 futg 增生 丧生
 futm 丧身
-fuud 增减 培养
+fuud 培养 增减
 fuug 真善美
 fuuk 境况 喜冲冲
 fuuq 增效
@@ -15823,7 +15823,7 @@ ghfa 下载
 ghfb 下地
 ghfc 下去
 ghff 下款 政坛
-ghfg 下士 下雨
+ghfg 下雨 下士
 ghfh 正直 下坡
 ghfl 政协
 ghfm 正南
@@ -22286,7 +22286,7 @@ ipue 学前
 ipuf 深闺
 ipuh 滓
 ipuj 党章 深意 学童
-ipuk 学部 学问
+ipuk 学问 学部
 ipun 沉闷
 ipuq 深交
 ipus 常新 尝新
@@ -31069,7 +31069,7 @@ mgn 屿 嶼
 mgna 贱民
 mgnb 甹
 mgnd 同居
-mgng 屿 同情
+mgng 同情 屿
 mgnn 财政局 邮政局
 mgnq 由来已久
 mgnt 同性 财政收入 同一性
@@ -33054,7 +33054,7 @@ ngic 懒汉
 ngif 司法
 ngig 怌
 ngij 恒温
-ngip 心理学
+ngip 心理学 恒常
 ngiw 屋脊
 ngiy 怀
 ngj 恒 恆
@@ -42717,7 +42717,7 @@ rdbi 撒克逊
 rdbk 扩大出口
 rdbm 排出 拔出
 rdbn 扼
-rdbw 排队 排除 拔除 拜聆
+rdbw 排除 排队 拔除 拜聆
 rdc 拔
 rdca 排戏
 rdcy 拔 抜
@@ -43423,7 +43423,7 @@ rhdb 看顾
 rhdh 看破
 rhdl 年历
 rhdm 扑面
-rhdn 年迈 看成 年成
+rhdn 看成 年迈 年成
 rhdq 扑克
 rhdw 反目成仇
 rhe 掯
@@ -44412,7 +44412,7 @@ rnsf 氥
 rnsj 据查
 rnsv 气概 扎根 所要
 rnsw 气枪
-rnsy 撰述
+rnsy 所述 撰述
 rnt 拨 撥
 rnta 所长
 rntd 气短 所知
@@ -44832,7 +44832,7 @@ rqri 抵挡
 rqrj 拘提
 rqrk 抵扣
 rqrl 抵押
-rqrm 掏 抵制 抑制 搖
+rqrm 抵制 抑制 搖 掏
 rqrn 托儿所 挣扎 拘留所 鬼气 换气 抑扬 揔
 rqrq 捣鬼 鬼魅 欣欣
 rqrt 换手
@@ -55344,7 +55344,7 @@ ukuh 总站
 ukuk 总部 冲冲
 ukuq 兑奖
 ukur 商品交换
-ukut 部首 问道 总产
+ukut 问道 总产 部首
 ukux 亲兄弟
 ukuy 部门
 ukva 冲毁
@@ -61641,7 +61641,7 @@ wtnj 侮慢
 wtnm 八届
 wtnn 仡 任务书 优先发展
 wtnq 分秒必争
-wtnt 创造性 倾向性 任性 余悸
+wtnt 任性 创造性 倾向性 余悸
 wtnu 悆
 wtny 伤心 全身心 僱
 wto 偢
@@ -62118,7 +62118,7 @@ wwaq 华人区
 wwau 合作医疗
 wwb 耸
 wwbb 谷子 份子
-wwbf 耸 人际
+wwbf 人际 耸
 wwbn 伧 傖
 wwbp 众院
 wwbw 仪仗队
@@ -62976,6 +62976,7 @@ xcap 经营
 xcb 纾
 xcbh 纾 紓
 xcbk 繘
+xcbp 经院
 xcc 缀
 xccc 缀 綴
 xcce 縿
@@ -64783,7 +64784,7 @@ xxft 组织者 终结者
 xxg 丝 繩 絲
 xxga 比武
 xxge 幽静
-xxgf 丝 纹丝不动 缘于
+xxgf 缘于 纹丝不动 丝
 xxgg 鸶 鷥
 xxgi 綠
 xxgj 蠿
@@ -66959,7 +66960,7 @@ ynqe 房角
 ynqg 刻印
 ynqh 户外
 ynqi 永乐
-ynqk 记名 户名 词句 为避免
+ynqk 词句 记名 户名 为避免
 ynqm 肩负
 ynqq 扅
 ynqr 废铁
