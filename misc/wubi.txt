@@ -854,7 +854,7 @@ afwo 荒无人烟 爇
 afwq 鞭
 afwr 某件
 afws 甘休
-afwt 菱 著作
+afwt 著作 菱
 afwu 芙
 afww 某人 区域合作
 afwx 靴
@@ -4268,7 +4268,7 @@ bmtd 出笼
 bmte 出租 出航
 bmtf 出行
 bmtg 出生 出征
-bmth 出版 出息 出处 出自
+bmth 出自 出处 出版 出息
 bmtl 出血
 bmtm 出身
 bmtu 出乎
@@ -11558,6 +11558,7 @@ fdcy 坺
 fddd 十三大
 fddg 震感
 fddq 老态龙钟
+fddt 城邦
 fddy 老太太
 fdet 需用
 fdf 震 雼
@@ -12296,7 +12297,7 @@ fhrq 真的
 fhrr 直白 起誓
 fhrt 直播
 fhru 直接
-fhrv 真挚 趋势 趁势 趁热 走势
+fhrv 趋势 趁势 真挚 趁热 走势
 fhrw 走失 趃
 fhrx 直指
 fhsc 越权 越橘
@@ -21748,7 +21749,7 @@ ime 滑
 imea 滑腻 油膜 油腻
 imed 酒肉朋友 尚须
 imee 漰
-imeg 滑 尚且
+imeg 尚且 滑
 imes 油彩
 imet 沿用
 imeu 滑脱
@@ -22189,7 +22190,7 @@ ipkw 沉吟
 ipky 瓽
 ipl 浑
 iplb 労
-iplf 党团 沉默 学园
+iplf 沉默 学园 党团
 iplh 浑 渾
 iplk 浑圆
 ipln 沉思 深思
@@ -23488,6 +23489,7 @@ iwlg 举国 兴国
 iwli 流体力学
 iwlw 举办 兴办
 iwme 脊髓
+iwmi 举凡
 iwmh 浴巾
 iwn 溮
 iwne 沁人心脾
@@ -23992,6 +23994,7 @@ jbrg 最后
 jbrp 最近
 jbrs 电子技术
 jbta 最长
+jdtd 最短
 jbtf 最先
 jbtp 电子管
 jbud 最差
@@ -26741,7 +26744,7 @@ kgyy 呈文
 kh 中 跟 路
 kha 距 噱
 khaa 中式 嚱 踐
-khad 路基 踏勘 中期 噳 囐
+khad 中期 路基 踏勘 噳 囐
 khae 噱 遣散
 khaf 跑鞋 遗著
 khag 嘘 噓
@@ -27085,7 +27088,7 @@ khxt 中缝
 khy 卟
 khya 蹁 跨度
 khyb 距离
-khyc 踱 遗弃
+khyc 遗弃 踱
 khyd 忠诚
 khye 踉 躟
 khyf 躔 踤 躋 躕
@@ -28289,7 +28292,7 @@ kwg 哈
 kwga 啽
 kwgb 喩
 kwgg 唯一
-kwgj 喻 噲 喩
+kwgj 喻 唯理 噲 喩
 kwgk 哈 唅 嗆
 kwgm 嗿
 kwgn 噏 唸
@@ -30496,7 +30499,7 @@ ma 曲 贼
 maa 賤
 maaa 同甘共苦
 maad 典藏
-maah 賤上 典雅
+maah 典雅 賤上
 maai 典范
 maan 曲艺
 maat 賤
@@ -30922,7 +30925,7 @@ mflw 财界 周界
 mfmf 冉冉
 mfmh 贝雷帽
 mfmq 周岁
-mfmt 风雨同舟 巅峰
+mfmt 巅峰 风雨同舟
 mfn 赎 贖
 mfnd 赎
 mfnf 嶹
@@ -34237,7 +34240,7 @@ ntsy 以身相许
 ntt 履
 ntta 司务长
 nttd 恬适
-nttf 发行 履行 改造 改选 改行 必选
+nttf 改造 发行 必选 履行 改选 改行
 nttg 发生
 ntth 发臭 发牌 改版 发自
 nttj 必得
@@ -35274,7 +35277,7 @@ ogvo 精灵
 ogvp 料事如神
 ogwt 业余
 ogwv 黺
-ogwx 数理化 精华
+ogwx 精华 数理化
 ogxa 精练
 ogxc 业经
 ogxd 彂
@@ -35519,6 +35522,7 @@ omun 焹
 omwg 熣
 omwk 烱
 omwy 熣
+omxg 精雕细琢
 omxy 精雕细刻
 omy 烿
 omye 烿
@@ -37994,7 +37998,7 @@ put 袄
 puta 审判长
 putb 袘
 putd 袄 襖
-putf 衽 实行 初等 被告 补选 初选 褈
+putf 实行 初等 被告 衽 补选 初选 褈
 putg 初生
 puth 初版 实处 袶 裄 裫 褷
 puti 袮
@@ -49473,7 +49477,7 @@ syxl 槒
 syxu 核弹
 syxy 核编
 syyf 核计
-syyg 述评 术语
+syyg 术语 述评
 syyi 想方设法
 syym 杭州市
 syyt 杭州
@@ -49910,7 +49914,7 @@ tdnj 稽
 tdnm 嵇 嵆
 tdnn 乱 知己 辞书
 tdns 很有必要
-tdnt 乱发 敏感性 短发 知性 筬
+tdnt 知性 敏感性 短发 乱发 筬
 tdnu 乱飞
 tdny 知心 甜心 諬
 tdo 舕
@@ -52914,7 +52918,7 @@ ttwh 篵
 ttwi 生物化学
 ttwk 彼得堡
 ttwo 千秋伟业
-ttws 德智体 简繁体 物自体 翻箱倒柜
+ttws 物自体 翻箱倒柜 德智体 简繁体
 ttwu 先生们
 ttwv 微积分
 ttwx 重生父母
@@ -55974,7 +55978,7 @@ uqwt 秶
 uqwu 善解人意
 uqwv 姿
 uqwx 净化 交货 次货
-uqwy 次 将领 交集 将令 奖售 效仿
+uqwy 效仿 交集 将领 将令 奖售 次
 uqxe 次级
 uqxj 交费 资费
 uqxk 交织
@@ -57647,7 +57651,7 @@ vfte 那般 寻租
 vftf 建造 姸
 vfth 那片
 vftj 媎
-vftk 媾和 那种
+vftk 那种 媾和
 vftl 寻衅
 vftt 奸笑 嬉笑
 vftv 建委
@@ -60088,7 +60092,7 @@ wgtf 例行 全靠
 wgtg 便笺 分裂生殖
 wgth 合算 人事处 全息 分理处 代表处
 wgti 你死我活
-wgtj 便利 舍不得 使得 使不得 优惠待遇
+wgtj 使得 便利 舍不得 使不得 优惠待遇
 wgtk 例程 全程
 wgtl 债务
 wgtm 全身 合身
@@ -62292,7 +62296,7 @@ wwtt 仰人鼻息
 wwtu 集体利益 偷税 从简 个人利益
 wwty 俆
 wwu 仌
-wwud 人头 从头
+wwud 坐着 从头 人头
 wwue 从前
 wwug 佝偻病 人命关天
 wwuj 人间 人意
@@ -62798,7 +62802,7 @@ wyw 俯
 wywa 信贷
 wywc 雙
 wywd 依仗 仪仗
-wywf 俯 领会 集会 禽舍 停付 倅 伜
+wywf 领会 集会 禽舍 停付 俯 倅 伜
 wywg 集合 伉俪 信使
 wywh 犨
 wywl 依偎
@@ -64841,6 +64845,7 @@ xxou 粊
 xxpe 皆宜
 xxpf 比赛
 xxph 幽寂
+xphh 综上
 xxpj 幽冥
 xxpk 丝绸之路
 xxpp 缝缝补补
@@ -66011,7 +66016,7 @@ ygyg 就事论事 评语 蛮不讲理 主语
 ygyj 主课
 ygyl 评为 主谓
 ygym 语调
-ygyn 证词 主词 语词
+ygyn 主词 证词 语词
 ygyq 主义 说到底 语义
 ygyr 鹿死谁手
 ygyt 说来话长 语族
@@ -66559,7 +66564,7 @@ yly 为
 ylyc 为序
 ylyg 为主 谓语 为证
 ylyi 为
-ylyn 库房 谓词 为国为民
+ylyn 谓词 库房 为国为民
 ylyw 为谁
 ylyy 妄加评论
 ym 高 市
@@ -68366,7 +68371,7 @@ ywun 乻
 ywuq 谁将 座次 褒奖
 ywut 论道
 ywux 旕
-ywuy 於 论辩
+ywuy 论辩 於
 ywvn 訜
 ywvo 鳼 鴋 鴍
 ywvq 文化娱乐
