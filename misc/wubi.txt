@@ -4780,6 +4780,7 @@ buyr 承前启后
 bv 限
 bvad 限期
 bvag 隉
+bvde 限有
 bvdr 阿那克萨哥拉
 bvdt 阿那克西曼德
 bve 限
@@ -12318,7 +12319,7 @@ fhte 起航 直航
 fhtf 起先 起毛
 fhtg 超生 超重 起重
 fhtk 起程 趫
-fhtm 趱 趋向 起身 走向 趲
+fhtm 趋向 起身 走向 趱 趲
 fhtr 超我 真我
 fhtt 未卜先知 走笔 趀
 fhtu 超乎 越冬
@@ -36776,7 +36777,7 @@ pgdc 室友
 pgde 富有 定有
 pgdf 定夺
 pgdg 宝石
-pgdh 定存 定在
+pgdh 定在 定存
 pgdm 宣布
 pgdn 写成
 pgdu 军事顾问
@@ -49137,6 +49138,7 @@ svrt 概括
 svsf 根植
 svsg 根本
 svsq 根柢
+vsqq 杂多
 svsr 根株
 svsv 概要
 svsy 概述
@@ -49429,6 +49431,7 @@ synw 核 覈
 synx 樚
 syny 核心 椖
 syoj 核爆
+yojq 变易
 syov 术数
 syoy 核糖
 syp 述
@@ -57588,7 +57591,7 @@ vfip 建党 寻常
 vfiy 妹
 vfj 媾 卆
 vfjf 那时 媾 那里 書
-vfjg 女教师 那是 晝
+vfjg 那是 女教师 晝
 vfjh 妌
 vfjk 肅
 vfjo 鷫
@@ -59351,6 +59354,7 @@ wcyr 公诉
 wcyt 债台高筑
 wcyw 公认 公论
 wcyy 公文 公议
+wcym 公设
 wd 估 做 段
 wda 佐
 wdaa 做工
@@ -62658,7 +62662,7 @@ wync 侌
 wynd 集居 邻居 化为己有
 wyne 衾
 wynf 领导
-wyng 领司 领悟 领情 含情 酓 僱 雂
+wyng 领悟 领情 领司 含情 酓 僱 雂
 wynj 韽
 wynk 含
 wynl 盦
@@ -63980,7 +63984,7 @@ xnrh 纪年
 xnrk 纽扣
 xnrt 弓手
 xnsg 练习本
-xnsh 幻想
+xnsh 幻想 幻相
 xnss 幻梦
 xnsv 纪要
 xnsw 纪检
@@ -65789,7 +65793,7 @@ yfwn 诸侯
 yfwq 毫无保留
 yfwr 计件
 yfws 诗体
-yfwt 市场信息 诗作 庱
+yfwt 读作 诗作 市场信息 庱
 yfwu 诸位 语无伦次
 yfwv 计分
 yfww 诗人 讨价 讲价
@@ -67092,6 +67096,7 @@ yody 变态
 yoep 恋爱
 yoev 谈妥
 yoew 变脸
+yoey 谈及
 yofc 变动
 yoff 变卦
 yofg 变坏 蛮干
@@ -68347,7 +68352,7 @@ ywsv 谁要
 ywsy 论述
 ywt 夜 亱
 ywtc 为什么
-ywtd 论敌 认知 谁知
+ywtd 认知 谁知 论敌
 ywte 夜航 座舱
 ywtf 亡命徒 夜行 言传身教
 ywth 论处
