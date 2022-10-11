@@ -12263,7 +12263,7 @@ fhpd 趤
 fhpe 起家
 fhpj 赴宴
 fhpt 超额
-fhpu 起初 真实
+fhpu 真实 起初
 fhpw 真空
 fhpy 直视
 fhq 赵 趙
@@ -42834,7 +42834,7 @@ rdrm 所有制
 rdrn 撩拨 排气
 rdrt 拜托
 rdrw 打砸抢
-rdry 排挤 排斥 掩护
+rdry 排斥 排挤 掩护
 rds 掎
 rdsc 所有权
 rdsd 擀面杖
@@ -46006,7 +46006,7 @@ rwic 抢滩
 rwif 反贪污
 rwim 推测
 rwin 捡漏
-rwip 失常 扮演 失学 推演
+rwip 推演 失常 扮演 失学
 rwiv 失当
 rwiw 推举
 rwiy 抢注
