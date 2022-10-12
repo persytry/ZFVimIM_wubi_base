@@ -42479,7 +42479,7 @@ rbov 报数 反函数
 rbpj 报审
 rbpv 报案
 rbpy 报社
-rbqa 摄氏
+rbqa 报错 摄氏
 rbqb 报怨
 rbqe 据了解
 rbqi 报销
