@@ -20106,7 +20106,7 @@ iawo 鴻
 iawq 鍙
 iawv 满分
 iaww 汇价 泄欲
-iawy 洪 汇集 滙
+iawy 汇集 洪 滙
 iax 濨
 iaxa 潆绕
 iaxf 满贯
@@ -26745,7 +26745,7 @@ kgyy 呈文
 kh 中 跟 路
 kha 距 噱
 khaa 中式 嚱 踐
-khad 中期 路基 踏勘 噳 囐
+khad 中期 中项 路基 踏勘 噳 囐
 khae 噱 遣散
 khaf 跑鞋 遗著
 khag 嘘 噓
@@ -37803,7 +37803,7 @@ pudd 被套 裶 褉
 pude 裖
 pudf 褥 裸奔
 pudg 初三 实感 袥
-pudh 实在 初夏
+pudh 实在 实存 初夏
 pudj 袹 袻 襫
 pudk 裿
 pudm 被面
@@ -39820,7 +39820,7 @@ qhtf 外行
 qhtg 外甥
 qhth 外延
 qhtl 外务
-qhtm 外币 外向
+qhtm 外向 外币
 qhtq 名目繁多
 qhtr 外物
 qhtu 外科
@@ -50601,7 +50601,7 @@ tfyr 告诉
 tfyt 行旅 德州 行话 先进设备 赞许
 tfyw 午夜
 tfyx 造诣
-tfyy 各地方 行文 德文 造访
+tfyy 选言 行文 德文 造访 各地方
 tg 生 重
 tga 垂
 tgaa 惩戒 重工
@@ -55148,6 +55148,7 @@ ujsf 音标
 ujsh 单相 意想
 ujsm 单机
 ujt 赣
+ujtq 单称
 ujtf 单选 单行
 ujth 竟自 韸
 ujtk 章程 单程
