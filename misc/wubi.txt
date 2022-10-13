@@ -16348,7 +16348,7 @@ gjmu 理赔
 gjna 惠民
 gjnb 理屈
 gjnn 更快
-gjnt 更改 理性 理发
+gjnt 理性 更改 理发
 gjod 更烦
 gjog 更糟
 gjpe 理家
@@ -20053,7 +20053,7 @@ iapn 泄密
 iapo 涝灾 洪灾
 iaps 溁 濚
 iapt 满额
-iapy 滢 漠视 瀅
+iapy 漠视 滢 瀅
 iaq 沤 漚
 iaqd 漠然 浇铸
 iaqg 鸿 鴻
@@ -54447,7 +54447,7 @@ uewa 前代
 uewg 前例
 uewo 鷳
 uewr 装腔作势
-uewt 前任 前途
+uewt 前途 前任
 ueww 前人 六月份
 uewx 前倾
 uexc 前缀
@@ -62179,7 +62179,7 @@ wwgg 伦琴 佺
 wwgh 坐下 从政
 wwgi 俭 从不 倹 儉
 wwgj 偷 伦理 儈 偸
-wwgk 人事 从事 从速 俗事 佮 傖
+wwgk 从事 人事 从速 俗事 佮 傖
 wwgm 僋
 wwgn 欲与 仱
 wwgo 从来 从严
