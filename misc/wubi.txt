@@ -29887,7 +29887,7 @@ lpwt 国家体委 连任
 lpww 连坐
 lpxc 连缀
 lpxe 国家级
-lpxf 连续 连贯 边疆 连结
+lpxf 连续 连结 连贯 边疆
 lpxg 连线 边线
 lpxr 连绵
 lpxt 连络
