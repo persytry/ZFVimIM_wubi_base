@@ -22913,7 +22913,7 @@ itib 深入浅出 海涵
 itic 海滩
 itid 渊源
 itie 潲
-itif 洗尘 海潮 浩瀚
+itif 浩瀚 海潮 洗尘
 itig 洗清 洗漱
 itih 浩渺
 itii 浩淼 活水 海水
@@ -43545,7 +43545,8 @@ rhte 年租 看透
 rhtf 看待 爬行
 rhtg 看重
 rhth 年版 年息 扑鼻 犇
-rhtj 年利 看得
+rhtj 看得 年利
+jbtd 最短
 rhtp 看管
 rhtr 牛犊 看我
 rhts 拉皮条
@@ -44295,7 +44296,8 @@ rnfw 扎堆
 rnfy 扟
 rng 握 挧
 rnga 拨开 拨弄 氫
-rngc 所至 所致
+rngc 所致 所至
+iwbm 举出
 rnge 氰
 rngf 握 拟于 气球
 rngg 氩 扬琴 揯 搄 氬
@@ -45779,7 +45781,7 @@ rvep 热爱
 rvet 挪用
 rvey 拫
 rvf 挪
-rvfb 挪 扫地
+rvfb 扫地 挪
 rvfc 挪动 招魂
 rvff 热土
 rvfh 殷墟
@@ -47032,7 +47034,8 @@ sff 桂 垔
 sffa 西南地区
 sffb 相夫教子
 sffc 飘动 飘去 橒
-sffg 桂 飘雨 枝干
+sffg 枝干 飘雨 桂
+knwt 叫作
 sffi 标示
 sffm 相去无几
 sffn 标志 樗
@@ -52051,7 +52054,7 @@ tnwf 秘传
 tnwg 秘使
 tnwm 顧
 tnww 自己人 知情人 知心人
-tnwy 身心健康 迄今 籊
+tnwy 迄今 身心健康 籊
 tnx 秜
 tnxj 乱收费 秘旨
 tnxn 秜
@@ -62712,7 +62715,7 @@ wyqq 贪多 保证金
 wyqr 集锦
 wyqt 偏锋 偏狭 儍
 wyqv 焦急
-wyqy 仪 停留
+wyqy 停留 仪
 wyra 釜底抽薪
 wyrd 偏振
 wyrf 住持
