@@ -37816,7 +37816,7 @@ pueb 被服
 puec 补胎 褑
 pued 寵
 pueg 补助 袓
-puet 衫 实用
+puet 实用 衫
 puey 衱
 puf 衬 襦 襯
 pufb 实地
@@ -43727,7 +43727,7 @@ rj 提 担
 rjaj 揭幕
 rjb 撮
 rjbb 担子 热电子
-rjbc 撮 提取
+rjbc 提取 撮
 rjbg 捍卫
 rjbm 提出
 rjby 提防
